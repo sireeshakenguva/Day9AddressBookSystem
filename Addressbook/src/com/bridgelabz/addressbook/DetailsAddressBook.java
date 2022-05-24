@@ -73,5 +73,4 @@ public class DetailsAddressBook {
     public void setEmailAddress(String emailAddress) {
         this.emailAddress = emailAddress;
     }
-
 }
